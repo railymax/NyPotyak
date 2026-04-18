@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6628424129792329560}
   - component: {fileID: 1394379249408908168}
   - component: {fileID: 7828564605491750838}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Marlboro_0
   m_TagString: massDegrower
   m_Icon: {fileID: 0}
@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1018767245
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -3706811940924793344, guid: 53bf41c71c7e7e043afc5e51b44c8337, type: 3}
@@ -107,7 +107,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 3
   m_AngularDamping: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}

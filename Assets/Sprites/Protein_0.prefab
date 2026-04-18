@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1237825835084028450}
   - component: {fileID: 6431858849898534134}
   - component: {fileID: 1113110045354315974}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Protein_0
   m_TagString: massGrower
   m_Icon: {fileID: 0}
@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1018767245
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1519525468695217492, guid: edb23d8180c871641a7044d5b34d04f5, type: 3}
@@ -107,7 +107,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 3
   m_AngularDamping: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
