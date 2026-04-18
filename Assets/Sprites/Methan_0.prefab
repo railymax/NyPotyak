@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6387288754089548581}
   - component: {fileID: 3871062743476750106}
   - component: {fileID: 764628317962554466}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Methan_0
   m_TagString: massDegrower
   m_Icon: {fileID: 0}
@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1018767245
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 5406298531502624566, guid: ea0ebe5fa47f7a24ba928a23192e47bb, type: 3}
@@ -107,7 +107,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 3
   m_AngularDamping: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}

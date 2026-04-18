@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8440607045451140090}
   - component: {fileID: 1534533223804679454}
   - component: {fileID: 5980638405006952915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: B9_0
   m_TagString: massDegrower
   m_Icon: {fileID: 0}
@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1018767245
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 3886915837676421094, guid: 1319a2d358d32eb40b07d6d9ad41e7a5, type: 3}
@@ -107,7 +107,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 3
   m_AngularDamping: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
